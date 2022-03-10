@@ -5,7 +5,7 @@
 
 <h1>You can check out some of my work here</h1> 
 - ✨ Cat or Dog? -> https://cateordoge.herokuapp.com/  
-<li>Checkout the code for CateOrDoge here!</li>
+&nbsp/ checkout
 - 🍔 Looking for a Grab substitute? MakanComeHere-> https://makancomehere.herokuapp.com/ 
 
 <!---
