@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning AWS, Docker and NLP
 
 <h1>You can check out some of my work here</h1> 
-- ✨ Dog or Cat? 
-- 🍔 Looking for a Grab substitute? MakanComeHere-> 
-- 
+- ✨ Cat or Dog? -> https://cateordoge.herokuapp.com/  
+<li>Checkout the code for CateOrDoge here!</li>
+- 🍔 Looking for a Grab substitute? MakanComeHere-> https://makancomehere.herokuapp.com/ 
 
 <!---
 mxixqc/mxixqc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
