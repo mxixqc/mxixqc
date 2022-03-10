@@ -6,7 +6,7 @@
 <h1>You can check out some of my work here</h1> 
 <ul>
 <li>
-  ✨ Cat or Dog? -> https://cateordoge.herokuapp.com/  
+  ✨ Cat or Dog? (might take some time to load)-> https://cateordoge.herokuapp.com/  
 </li>
 <li>
   🍔 Looking for a Grab substitute? MakanComeHere-> https://makancomehere.herokuapp.com/ 
