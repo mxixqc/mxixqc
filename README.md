@@ -3,6 +3,8 @@
 - 👀 I’m passionate in areas of Machine Learning, Data Engineering and Data Analytics 
 - 🌱 I’m currently learning AWS, Docker and NLP
 - 😋 Also, I'm currently interning as a research assistant working on Graph Neural Networks. Tune in to check out the code I run as I explore this complex field. 
+- <a>Static Graphs<a>
+- <a>Dynamic Graphs<a>
 
 <h1>You can check out some of my work here</h1> 
 <ul>
