@@ -1,12 +1,8 @@
 <h1>Hi, I'm Shaan Walia:)</h1>
 
-- 👀 I’m passionate in areas of Machine Learning, Data Engineering and Data Analytics 
-- 🌱 I’m currently learning AWS, Docker and NLP
-- 😋 Also, I'm currently interning as a research assistant working on Graph Neural Networks. Tune in to check out the code I run as I explore this complex field. 
-- <ul>
-- <a href="./">Static Graphs<a>
-- <a href="./">Dynamic Graphs<a>
-  </ul>
+- 👀 I’m passionate in areas of Software Engineering and Machine Learning
+- 🌱 I’m currently learning AWS and working towards an AWS Associate Solutions Architect Certification
+- 😋 I am very open to work :)
 
 <h1>You can check out some of my work here</h1> 
 <ul>
