@@ -1,10 +1,12 @@
-<h1>Hi, I'm Shaan Walia:)</h1>
+<h1>Hi, I'm Shaan</h1>
 
-- 👀 I’m passionate in areas of Software Engineering and Machine Learning
+- 👀 I’m passionate in areas of Software Engineering and Fullstack Development
 - 🌱 I’m currently learning AWS and working towards an AWS Associate Solutions Architect Certification
-- 😋 I am very open to work :)
+- 🐟 I'm proficient in areas of Fullstack Development (Web / Android)
 
-<h1>You can check out some of my work here</h1> 
+<h1>Languages</h1> 
+https://commons.wikimedia.org/wiki/File:Kotlin_Icon.png
+
 <ul>
 <li>
   ✨ Cat or Dog? (might take some time to load, looking into tensorserve to make this faster)-> https://cateordoge.herokuapp.com/  
