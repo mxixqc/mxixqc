@@ -5,8 +5,7 @@
 - 🐟 I'm proficient in areas of Fullstack Development (Web / Android)
 
 <h1>Languages</h1> 
-![Kotlin](
-https://commons.wikimedia.org/wiki/File:Kotlin_Icon.png)
+![Kotlin](https://commons.wikimedia.org/wiki/File:Kotlin_Icon.png)
 
 
 <ul>
