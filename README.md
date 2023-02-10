@@ -20,8 +20,8 @@ I also have experience with the following tools!
 
 # Get In Touch
 
-Email: shaan.walia.2020@smu.edu.sg
-Portfolio Page: shaan-walia.vercel.app
+Email: shaan.walia.2020@smu.edu.sg <br>
+Portfolio Page: https://shaan-walia.vercel.app <br>
 Linkedin: https://www.linkedin.com/in/shaan-walia/
 
 <!---
