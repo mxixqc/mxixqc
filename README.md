@@ -1,3 +1,10 @@
+<h1>Hi, I'm Shaan👀</h1>
+
+- 🦀 I’m passionate in areas of Software Engineering and Fullstack Development
+- 🐋 I’m currently learning AWS and working towards an AWS Associate Solutions Architect Certification
+- 🐟 I'm proficient in areas of Fullstack Development (Web / Android)
+
+
 # My Programming Skills
 
 Hi there! I'm a software developer and I can speak the following languages
